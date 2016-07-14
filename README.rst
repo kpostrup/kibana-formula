@@ -1,4 +1,4 @@
-kibana
+Kibana
 ===============
 
 Formula to install Kibana.
